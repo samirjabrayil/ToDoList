@@ -1,0 +1,26 @@
+.tasks {
+  width: 40%;
+  margin: 30px auto;
+}
+
+.task-count {
+  background-color: #157347;
+}
+.task-count h1 {
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+}
+.task-count span {
+  font-size: 20px;
+  color: white;
+  font-family: sans-serif;
+  background-color: #ffffff;
+  padding: 20px 30px;
+  color: #157347;
+  border-radius: 15px;
+}
+.task-count span #number {
+  font-weight: bold;
+}/*# sourceMappingURL=style.css.map */
